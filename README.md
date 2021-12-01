@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mat124
 - 👀 I’m interested in all sorts of shit (except webdev)
 - 🌱 I’m currently trying to learn too much at once.
-- 📫 How to reach me? 
+- 📫 How to reach me? simply don't
 
 <!---
 Mat124/Mat124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

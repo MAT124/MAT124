@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mat124
-- 👀 I’m interested in all sorts of shit (except webdev)
+- 👀 I’m interested in almost everything (except webdev)
 - 🌱 I’m currently trying to learn too much at once.
 - 📫 How to reach me? simply don't
 

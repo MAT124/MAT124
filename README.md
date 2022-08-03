@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mat124
-- 👀 I’m interested in almost everything (except webdev)
+- 👀 I’m interested in almost everything
 - 🌱 I’m currently trying to learn too much at once, with a focus on low-level/embedded systems.
 - 📫 How to reach me? [mail](mailto:mrg.knight1@gmail.com)
 

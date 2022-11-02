@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mat124
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently trying to learn too much at once, with a focus on low-level/embedded systems.
+- 🌱 I’m currently trying to learn too much at once, with a focus on low-level, embedded and high-performance/low-latency systems.
 - 📫 How to reach me? [mail](mailto:mrg.knight1@gmail.com)
 
 <!---
